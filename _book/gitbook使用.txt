@@ -1,0 +1,13 @@
+1、初始化
+
+在任意文件夹下执行命令gitbook init，最终会生成README.md、SUMMARY.md两个文件。主要目录需要在SUMMARY.md文件中配置。
+
+2、构建
+
+执行命令gitbook build，会生成_book文件夹
+
+3、启动
+
+执行命令gitbook serve（也会执行构建工作），然后可以通过浏览器输入http://localhost:4000访问电子书目录
+4.windows 文件传linux乱码问题解决
+convmv --notest --nosmart -f gbk -t utf8 -r 文件或者目录
