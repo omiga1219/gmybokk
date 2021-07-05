@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="gensim" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="elasticsearch" />
+            <item index="3" class="java.lang.String" itemvalue="redis-py-cluster" />
+            <item index="4" class="java.lang.String" itemvalue="requests" />
+            <item index="5" class="java.lang.String" itemvalue="pypinyin" />
+            <item index="6" class="java.lang.String" itemvalue="dg-logging" />
+            <item index="7" class="java.lang.String" itemvalue="orm" />
+            <item index="8" class="java.lang.String" itemvalue="flask" />
+            <item index="9" class="java.lang.String" itemvalue="pandas" />
+            <item index="10" class="java.lang.String" itemvalue="python-Levenshtein" />
+            <item index="11" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="12" class="java.lang.String" itemvalue="tormysql" />
+            <item index="13" class="java.lang.String" itemvalue="thrift" />
+            <item index="14" class="java.lang.String" itemvalue="numpy" />
+            <item index="15" class="java.lang.String" itemvalue="Cython" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

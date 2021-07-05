@@ -1,0 +1,12 @@
+version: "3.4"
+services:
+  my_gitbook:
+    image: fellah/gitbook:latest
+    volumes:
+      - ~/Documents/project_dg/myself/gmybokk:/srv/gitbook
+      - ~/Documents/project_dg/myself/html:/srv/html
+    restart: always
+    ports:
+      - 4000:4000
+    command:
+      /bin/bash -c "gitbook build . /srv/html && gitbook serve"
