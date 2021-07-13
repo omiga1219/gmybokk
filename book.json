@@ -1,7 +1,6 @@
 {
 	"plugins":[
 		"expandable-chapters",
-		
 		"-lunr", "-search", "search-pro",
 		"emphasize",
 		"splitter",
