@@ -1,12 +1,12 @@
 {
 	"plugins":[
 		"expandable-chapters",
-		"back-to-top-button",
 		"chapter-fold",
 		"-lunr", "-search", "search-pro",
 		"emphasize",
 		"splitter",
 		"flexible-alerts",
+		"back-to-top-button",
 		"simple-page-toc"
 	]
 }
