@@ -6,6 +6,7 @@
 		"-lunr", "-search", "search-pro",
 		"emphasize",
 		"splitter",
+		"flexible-alerts",
 		"simple-page-toc"
 	]
 }
