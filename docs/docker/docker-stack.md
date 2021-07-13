@@ -3,7 +3,9 @@
 > [!NOTE]
 > 先了解docker和docker-compose知识
 > 如果您在本地开发环境中进行尝试，您可以使用`docker swarm init`.
->如果你已经有了一个多节点群运行，请记住，所有 `docker stack`和`docker service`命令必须从管理节点运行。
+> 如果你已经有了一个多节点群运行，请记住，所有 `docker stack`和`docker service`命令必须从管理节点运行。
+
+
 
 > [!WARNING]
 > The `docker stack deploy` command supports any Compose file of version “3.0” or above
